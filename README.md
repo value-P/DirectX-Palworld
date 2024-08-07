@@ -17,10 +17,10 @@
 <p dir="auto"><br></p>
 
 <h1 tabindex="-1" class="heading-element" dir="auto">하이라이트</h1>
-<img src="https://github.com/user-attachments/assets/9780308a-dbc5-46e9-9d17-4a21fd857735" width="40%" style="max-width: 100%;">
-<img src="https://github.com/user-attachments/assets/9d169b59-4512-404c-ad20-710fdd90a14c" width="40%" style="max-width: 100%;">
-<img src="https://github.com/user-attachments/assets/13764c62-5141-4804-89f9-c0957180f5f7" width="40%" style="max-width: 100%;">
-<img src="https://github.com/user-attachments/assets/e37729d0-17f0-4a0a-b6c9-1b2363396867" width="40%" style="max-width: 100%;">
+<img src="https://github.com/user-attachments/assets/ea4494a4-856e-4900-bc19-4d12b377b539" width="40%" style="max-width: 100%;">
+<img src="https://github.com/user-attachments/assets/685c95d4-4049-42a2-8d85-59beb75b2839" width="40%" style="max-width: 100%;">
+<img src="https://github.com/user-attachments/assets/15687cdb-a146-409f-bea1-dd1dbc3bb6e5" width="40%" style="max-width: 100%;">
+<img src="https://github.com/user-attachments/assets/7d58fb29-8339-413d-85c8-6903d92bb507" width="40%" style="max-width: 100%;">
 
 <p dir="auto"><br></p>
 <h1 tabindex="-1" class="heading-element" dir="auto">중점 구현 사항</h1>
